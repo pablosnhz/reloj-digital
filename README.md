@@ -1,2 +1,2 @@
 # reloj-digital 
-link para ver el resultado: relojdigitalpractice.netlify.app
+link para ver el resultado: https://relojdigitalpractice.netlify.app/
