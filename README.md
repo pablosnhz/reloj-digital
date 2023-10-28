@@ -1,2 +1,2 @@
 # reloj-digital 
-link para ver el resultado: https://pablosnhz.github.io/reloj-digital/
+link para ver el resultado: relojdigitalpractice.netlify.app
